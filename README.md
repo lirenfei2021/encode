@@ -9,8 +9,8 @@
 
 其他改进：
 
-> 1、使用 `Nuitka` 打包 `exe`
->
-> 2、使用 ***Visual Studio 2022 Community*** 中的 `Setup` 打包安装文件
+> 全新 `Setup` 安装
 
-![运行截图](https://user-images.githubusercontent.com/96654947/147819994-c392d28d-2fdd-4c7e-88c4-748a570a6b16.png)
+![运行截图1](https://user-images.githubusercontent.com/96654947/147848420-ee1c5270-f161-45b3-a752-ab1691702a41.png)
+
+![运行截图2](https://user-images.githubusercontent.com/96654947/147819994-c392d28d-2fdd-4c7e-88c4-748a570a6b16.png)
