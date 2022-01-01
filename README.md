@@ -13,10 +13,4 @@
 >
 > 2、使用 ***Visual Studio 2022 Community*** 中的 `Setup` 打包安装文件
 
-已知问题：
-
-> 1、解密速度不如以前
->
-> 2、若文件名为中文解密时会乱码
-
 ![运行截图](https://user-images.githubusercontent.com/96654947/147819994-c392d28d-2fdd-4c7e-88c4-748a570a6b16.png)
