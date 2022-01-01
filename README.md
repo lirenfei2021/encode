@@ -1,15 +1,22 @@
-密文 V1.2.2 极速版
+# 密文 V2.0.0 极速版
+## ***——为代替陈泰阁***  `C++` ***版本而战***
 
 更新日志：
 
-> 1、运行速度起飞
-> 
-> 2、使用`Setup`方式安装
+> 1、使用 `enc` 文件格式（陈泰阁不可能做到）
+>
+> 2、支持所有编码格式及文件格式（陈泰阁要是做到就见鬼了）
 
 其他改进：
 
-> 1、使用`Nuitka`打包`exe`
-> 
-> 2、使用 ***Visual Studio 2022 Community*** 中的`Setup`打包安装文件
+> 1、使用 `Nuitka` 打包 `exe`
+>
+> 2、使用 ***Visual Studio 2022 Community*** 中的 `Setup` 打包安装文件
 
-![运行截图](https://user-images.githubusercontent.com/96654947/147397634-41d88c9a-7227-45c2-979f-fc2db95cb5fc.png)
+已知问题：
+
+> 1、解密速度不如以前
+>
+> 2、若文件名为中文解密时会乱码
+
+![运行截图](https://user-images.githubusercontent.com/96654947/147819994-c392d28d-2fdd-4c7e-88c4-748a570a6b16.png)
